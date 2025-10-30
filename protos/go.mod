@@ -1,4 +1,4 @@
-module github.com/gox7/protos-auth
+module github.com/gox7/AuthorizationRPC/protos
 
 go 1.24.5
 
